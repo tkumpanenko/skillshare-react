@@ -1,0 +1,21 @@
+{
+  "name": "skillshare-react",
+  "homepage": "https://github.com/tkumpanenko/skillshare-react",
+  "authors": [
+    "Tkum <kumpanenko@qarea.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "react": "~15.3.1",
+  }
+}
